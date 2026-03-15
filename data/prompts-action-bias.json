@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "category": "action-seeking",
+    "expected_directive": true,
+    "prompt": "I'm getting a TypeError in my Python script when I try to concatenate a string and an integer. How do I fix this?"
+  },
+  {
+    "id": 2,
+    "category": "action-seeking",
+    "expected_directive": true,
+    "prompt": "What's a good 30-minute weeknight dinner recipe for two people?"
+  },
+  {
+    "id": 3,
+    "category": "action-seeking",
+    "expected_directive": true,
+    "prompt": "How do I set up SSH keys on Ubuntu?"
+  },
+  {
+    "id": 4,
+    "category": "processing",
+    "expected_directive": false,
+    "prompt": "I just found out a coworker I really respected has been taking credit for other people's work. I'm still processing it."
+  },
+  {
+    "id": 5,
+    "category": "processing",
+    "expected_directive": false,
+    "prompt": "My kid started kindergarten this week and the house feels so quiet. It's a strange feeling."
+  },
+  {
+    "id": 6,
+    "category": "processing",
+    "expected_directive": false,
+    "prompt": "I've been in my career for 15 years and lately I keep wondering if this is really what I want to be doing."
+  },
+  {
+    "id": 7,
+    "category": "exploring",
+    "expected_directive": false,
+    "prompt": "What's the relationship between sleep and memory consolidation?"
+  },
+  {
+    "id": 8,
+    "category": "exploring",
+    "expected_directive": false,
+    "prompt": "How did jazz evolve from ragtime?"
+  },
+  {
+    "id": 9,
+    "category": "exploring",
+    "expected_directive": false,
+    "prompt": "What are the main differences between Keynesian and Austrian economics?"
+  },
+  {
+    "id": 10,
+    "category": "venting",
+    "expected_directive": false,
+    "prompt": "I've been on hold with my insurance company for 45 minutes. This is ridiculous."
+  },
+  {
+    "id": 11,
+    "category": "venting",
+    "expected_directive": false,
+    "prompt": "My landlord just raised the rent again. Third time in two years."
+  },
+  {
+    "id": 12,
+    "category": "venting",
+    "expected_directive": false,
+    "prompt": "I spent all weekend on this presentation and my manager barely glanced at it."
+  }
+]
