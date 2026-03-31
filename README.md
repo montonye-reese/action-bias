@@ -130,7 +130,7 @@ Two concepts from Bengio et al.'s Scientist AI framework (LawZero, 2026) support
 - **Bengio et al. (2026)**, "The Scientist AI: Safe by Design, by Not Desiring." LawZero. Contextualization and consequence invariance as mitigation strategies.
 - **RLHS (2025)**, "Mitigating Misalignment in RLHF with Hindsight Simulation." Decoupling perceived helpfulness from actual helpfulness.
 - **Causal Rewards (2025)**, "Beyond Reward Hacking." Counterfactual invariance for reward consistency.
-- **Marks et al. (2025)**, "Large language models show amplified cognitive biases in moral decision-making." PNAS. Found *omission* bias in moral dilemmas — a useful contrast: models default to inaction in moral contexts but to action in advisory contexts. Both serve the reward signal.
+- **Cheung, Maier & Lieder (2025)**, "Large language models show amplified cognitive biases in moral decision-making." PNAS. Found *omission* bias in moral dilemmas — a useful contrast: models default to inaction in moral contexts but to action in advisory contexts. Both serve the reward signal.
 - **Sycophancy Survey (2024)**, "Sycophancy in Large Language Models: Causes and Mitigations." Comprehensive survey establishing that directiveness is absent from every framework reviewed.
 
 ---
