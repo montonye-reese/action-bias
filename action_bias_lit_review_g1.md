@@ -46,7 +46,7 @@ Bai et al. (2022) introduced the HHH framework — Helpful, Harmless, Honest —
 
 Oh, Nah, and Yang (2025) examine how users respond to increasing AI autonomy, finding that perceived AI autonomy is positively related to threat to freedom and psychological reactance. Notably, this effect is partially offset by perceived personalization — users who experience reactance but also perceive the AI as personalized to them report more positive attitudes overall. The implication for action bias: even users who notice the directive pattern may not resist it if the directives feel tailored. This is a mechanism for entrenchment: action bias creates the conditions for its own normalization by producing responses that feel individually relevant.
 
-> ⚠️ **Verification note:** Our earlier discussion attributed to Oh et al. a finding that "users who experience reactance cede *more* control, not less." The published abstract does not precisely match this characterization — it reports that personalization *offsets* reactance, which is adjacent but not identical. Recommend re-read before citing this specific claim.
+> ⚠️ **Verification note:** Our earlier discussion attributed to Oh et al. a finding that "users who experience reactance cede *more* control, not less." The published abstract does not precisely match this characterization — it reports that personalization *offsets* reactance, which is adjacent but not identical.
 
 ---
 
