@@ -1,6 +1,6 @@
 # Literature Review: Action Bias in RLHF-Trained Language Models
 
-*Working document — NvrLmp + Claude Sonnet 4.6 — March 2026*
+*Working document — LMR + Claude Sonnet 4.6 — March 2026*
 
 ---
 
